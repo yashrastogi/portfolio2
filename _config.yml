@@ -1,0 +1,36 @@
+# site settings
+title: Digital Portfolio
+subtitle: Yash Rastogi
+email: yashrastogi@gmail.com
+description: I have knowledge over vast domains of computer science viz. Artificial Intelligence, Cyber Security, Full Stack Web and Software Development and Database Systems which helps me to combine these skills at will.
+baseurl: /portfolio2
+url: # the base hostname & protocol for your site
+author:
+# street_address: 1234 Somewhere Road
+city: Gurugram
+state: HR
+zip_code: 122001
+country: India
+phone: +91 - 9717369239
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/yashrastogi
+gitlab_url: 
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/yashrastogi-ml
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
